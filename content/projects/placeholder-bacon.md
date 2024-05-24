@@ -1,10 +1,15 @@
 ---
 category: food
-title: Placeholder Bacon
-description: What is life without bacon?
-cover: https://baconmockup.com/400/200
-gallery: ['https://baconmockup.com/600/300', 'https://baconmockup.com/600/600']
+title: Echo Murphy
+description: ""
+cover: null
+gallery:
+  - https://baconmockup.com/600/300
+  - https://baconmockup.com/600/600
 ---
+![](/img/echo-murph.png)
+
+Player: Ethan
 
 It is easy to write **markdown**-*enabled* content like this placeholder text, with support for images.
 
